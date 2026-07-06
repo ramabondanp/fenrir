@@ -101,6 +101,7 @@ The following devices are currently supported:
 | Tecno Pova 4 Pro | `LG8n` |
 | Tecno Pova 5 | `LH7n` |
 | Zinwa Q25 | `Q25` |
+| Infinix GT 20 Pro | `X6871` |
 
 > [!NOTE]
 > Support for the CMF Phone 1 (`Tetris`) is still incomplete.
